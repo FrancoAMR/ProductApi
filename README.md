@@ -11,8 +11,8 @@ This is a simple **CRUD API** for managing products, built with **.NET Core** an
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/your-username/your-repo.git
-   cd your-repo
+   git clone https://github.com/FrancoAMR/ProductApi.git
+   cd ProductApi
    ```
 
 ## ⚙️ Configuration

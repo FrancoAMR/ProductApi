@@ -63,3 +63,16 @@ This command runs the scripts and physically creates the database in SQL Server:
 ```bash
 dotnet ef database update
 ```
+
+## ▶️ Execution
+
+Run the API with the following command:
+
+```bash
+   dotnet run
+```
+
+Access the Swagger interface to test the endpoints:
+
+[http://localhost:5278/swagger/](http://localhost:5278/swagger/)
+
